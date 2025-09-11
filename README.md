@@ -1,22 +1,4 @@
 
-# LectureLM
-
-LectureLM helps students and lifelong learners create comprehensive revision notes from YouTube lectures. It automatically generates structured notes that summarize key concepts, making revision faster and more effective.
-
-**Unique Selling Point:**
-LectureLM links specific sections of the notes directly to corresponding timestamps in the YouTube video. Instantly jump to the exact part of the lecture for quick review or clarification while revising.
-
----
-
-## Features
-- Generates detailed revision notes from YouTube lecture videos
-- Structured notes for easy reading and quick revision
-- Embedded direct links to video timestamps for instant look-up
-- Modern, responsive UI
-- Easy to customize
-
----
-
 
 # LectureLM
 
@@ -37,24 +19,41 @@ Add a screenshot below to showcase the app interface or sample notes. Example:
 ## Demo Video
 Watch a demo of LectureLM in action:
 
-[![Demo Video](https://img.youtube.com/vi/x277HmhkL3o/0.jpg)](https://youtu.be/x277HmhkL3o)
+👉 **[Watch the Demo Video on YouTube](https://youtu.be/x277HmhkL3o)** 👈
 
 ---
 
 ## Features
-...existing code...
+- Generates detailed revision notes from YouTube lecture videos
+- Structured notes for easy reading and quick revision
+- Embedded direct links to video timestamps for instant look-up
+- Modern, responsive UI
+- Easy to customize
+
+---
 
 ## Installation
-...existing code...
+Find installation instructions for both the frontend and backend in their respective `README.md` files:
+- [Frontend Installation](./frontend/README.md)
+- [Backend Installation](./backend/README.md)
+
+---
 
 ## Getting Started (Frontend)
-...existing code...
-
-## Contributing
-...existing code...
-
-## License
-See the `LICENSE` file for details.
+1. Install dependencies:
+   ```sh
+   pnpm install
+   ```
+2. Run the development server:
+   ```sh
+   pnpm dev
+   ```
+3. Build for production:
+   ```sh
+   pnpm build
+   ```
+4. Start the production server:
+   ```sh
    pnpm start
    ```
 
