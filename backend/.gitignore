@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# Virtual environments
+venv/
+.env/
+.envrc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Test and coverage
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+
+# PDF and other generated files
+*.pdf
+*.docx
+*.xlsx
+
+# Misc
+*.sqlite3
+*.db
+*.bak
+*.tmp
+
+# System files
+Thumbs.db
+Desktop.ini
+
+# Ignore requirements lock files
+requirements*.lock
+
+# Ignore pipenv files
+Pipfile.lock
+
+# Ignore poetry files
+poetry.lock
+
+# Ignore mypy cache
+.mypy_cache/
+
+# Ignore profiling files
+.prof
+
+# Ignore local secrets
+secrets.env
+
+# Ignore coverage reports
+coverage.xml
+
+# Ignore node modules (if any)
+node_modules/

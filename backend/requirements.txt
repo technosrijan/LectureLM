@@ -1,0 +1,8 @@
+python-dotenv
+groq
+yt-dlp
+fastapi
+uvicorn
+weasyprint
+markdown
+pydantic
