@@ -10,7 +10,6 @@ LectureLM links specific sections of the notes directly to corresponding timesta
 ---
 
 ## Screenshot
-Add a screenshot below to showcase the app interface or sample notes. Example:
 
 ![LectureLM Screenshot](UI.png)
 
